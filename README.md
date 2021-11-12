@@ -25,4 +25,4 @@ Hi! I am Ilya Smirnov. I am 15 years old Front-end developer from Russia. Someti
 
 
 ### Statistics
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauh-wrld&layout=compact&show_icons=true&theme=react)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauh-wrld&layout=compact&show_icons=true&hide_border=true&theme=react)
