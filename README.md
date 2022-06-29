@@ -1,5 +1,5 @@
 ## Ilya Smirnov
-Hi! I am Ilya Smirnov. I am 16 years old Front-end developer from Russia. Sometimes i post my portfolio's projects on GitHub. Glad to see you here.
+Hi! I am Ilya Smirnov. I am 16 years old Web Front-end developer from Russia. Sometimes i post my portfolio's projects on GitHub. Glad to see you here.
 
 ### Information
 
