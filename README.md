@@ -28,7 +28,6 @@ Hi! I am Ilya Smirnov. I am 16 years old Web Front-end developer from Russia. So
 #### Tools 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Statistics
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rauh-wrld&layout=compact&show_icons=true&hide_border=true&theme=react)
